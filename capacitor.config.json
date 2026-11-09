@@ -1,0 +1,10 @@
+{
+  "appId": "com.fckyoutube.app",
+  "appName": "F*ckyoutube",
+  "webDir": "dist",
+  "loggingBehavior": "debug",
+  "ios": {
+    "contentInset": "automatic",
+    "backgroundColor": "#0B0C10"
+  }
+}
